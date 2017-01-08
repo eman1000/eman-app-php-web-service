@@ -1,2 +1,2 @@
 # eman-app-php-web-service
-Php Web Service for the portfolio web application
+RESTful API for my portfolio website
